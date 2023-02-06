@@ -23,7 +23,7 @@
     "title": "Authentication",
     "description": "Frontend and backend authentication",
     "image": "image/auth.png",
-    "netlifyLink": "https://authentication-naghmeh-antonella.netlify.app/login",
+    "netlifyLink": "https://authentication-naghmeh-antonella.netlify.app/",
     "githubLink": "https://github.com/Sailornina/project-auth",
     "isFeatured": false,
     "tags": [
