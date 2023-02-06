@@ -1,0 +1,209 @@
+[
+  {
+    "id": "project-14",
+    "title": "Astronomy community",
+    "description": "A website where you can find a community about astronomy",
+    "image": "image/final.png",
+    "netlifyLink": "https://astronomycommunity.netlify.app/",
+    "githubLink": "https://github.com/Sailornina/final-project",
+    "isFeatured": true,
+    "tags": [
+      { "name": "JavaScript" },
+      { "name": "HTML5" },
+      { "name": "CSS3" },
+      { "name": "React" },
+      { "name": "Redux" },
+      { "name": "API" },
+      { "name": "MongoDB" },
+      { "name": "Express" }
+    ]
+  },
+	{
+    "id": "project-13",
+    "title": "Authentication",
+    "description": "Frontend and backend authentication",
+    "image": "image/auth.png",
+    "netlifyLink": "https://authentication-naghmeh-antonella.netlify.app/login",
+    "githubLink": "https://github.com/Sailornina/project-auth",
+    "isFeatured": false,
+    "tags": [
+      { "name": "JavaScript" },
+      { "name": "HTML5" },
+      { "name": "CSS3" },
+      { "name": "React" },
+      { "name": "Redux" },
+      { "name": "API" },
+      { "name": "MongoDB" },
+      { "name": "Express" }
+    ]
+  },
+  {
+    "id": "project-12",
+    "title": "Labyrinth",
+    "description": "Build communication with the backend using Thunks and Redux.",
+    "image": "image/labyrinth.png",
+    "netlifyLink": "https://labyrinthmaze.netlify.app/",
+    "githubLink": "https://github.com/NaghmehOkhovat/project-labyrinth",
+    "isFeatured": false,
+    "tags": [
+      { "name": "JavaScript" },
+      { "name": "HTML5" },
+      { "name": "CSS3" },
+      { "name": "React" },
+      { "name": "Redux" }
+    ]
+  },
+  {
+    "id": "project-11",
+    "title": "ToDo",
+    "description": "A to do list using Redux and global state.",
+    "image": "image/todo-list.png",
+    "netlifyLink": "https://mytodolife.netlify.app/",
+    "githubLink": "https://github.com/NaghmehOkhovat/project-todos",
+    "isFeatured": true,
+    "tags": [
+      { "name": "JavaScript" },
+      { "name": "HTML5" },
+      { "name": "CSS3" },
+      { "name": "React" },
+      { "name": "Redux" }
+    ]
+  },
+  {
+    "id": "project-10",
+    "title": "Quiz",
+    "description": "Quiz game using global state in Redux.",
+    "image": "image/quiz.png",
+    "netlifyLink": "https://quiz-in-react.netlify.app/",
+    "githubLink": "https://github.com/Petrasoderstrom1612/project-redux-quiz",
+    "isFeatured": false,
+    "tags": [
+      { "name": "JavaScript" },
+      { "name": "HTML5" },
+      { "name": "CSS3" },
+      { "name": "React" },
+      { "name": "Redux" }
+    ]
+  },
+  {
+    "id": "project-9",
+    "title": "Popular Movies",
+    "description": "React apps with multiple pages using routes.",
+    "image": "image/popular-movies.png",
+    "netlifyLink": "https://popularmovieapp.netlify.app/",
+    "githubLink": "https://github.com/NaghmehOkhovat/project-movies",
+    "isFeatured": false,
+    "tags": [
+      { "name": "JavaScript" },
+      { "name": "HTML5" },
+      { "name": "CSS3" },
+      { "name": "API" },
+      { "name": "React" }
+    ]
+  },
+  {
+    "id": "project-8",
+    "title": "Happy Thoughts",
+    "description": "Practice how to react to changes in state or a component mounting using useEffect.",
+    "image": "image/happy-thoughts.png",
+    "netlifyLink": "https://lovelythoughts.netlify.app/",
+    "githubLink": "https://github.com/NaghmehOkhovat/project-happy-thoughts",
+    "isFeatured": true,
+    "tags": [
+      { "name": "JavaScript" },
+      { "name": "HTML5" },
+      { "name": "CSS3" },
+      { "name": "API" },
+      { "name": "React" },
+      { "name": "useEffect" },
+      { "name": "MongoDB" },
+      { "name": "express" }
+    ]
+  },
+  {
+    "id": "project-7",
+    "title": "Icebreker meeting environment survey",
+    "description": "Typeform-like survey to collect data from users made into a mad lib story.",
+    "image": "image/icebreaker.png",
+    "netlifyLink": "https://workenviornmentsurvey.netlify.app/",
+    "githubLink": "https://github.com/NaghmehOkhovat/project-survey",
+    "isFeatured": true,
+    "tags": [
+      { "name": "JavaScript" },
+      { "name": "HTML5" },
+      { "name": "CSS3" },
+      { "name": "React" },
+      { "name": "useState" }
+    ]
+  },
+  {
+    "id": "project-6",
+    "title": "Music releases",
+    "description": "First project using JSX and react with JSON api. Project was to fetch data and show cover albums with links using map.",
+    "image": "image/music-releases.png",
+    "netlifyLink": "https://musicreleases-newalbums.netlify.app/",
+    "githubLink": "https://github.com/Fonnt/project-music-releases",
+    "isFeatured": false,
+    "tags": [
+      { "name": "JavaScript" },
+      { "name": "HTML5" },
+      { "name": "CSS3" },
+      { "name": "API" }
+    ]
+  },
+  {
+    "id": "project-5",
+    "title": "Weather App",
+    "description": "Web application built in JavaScript with external API.",
+    "image": "image/weatherapp.png",
+    "netlifyLink": "https://yourweatherapptoday.netlify.app/",
+    "githubLink": "https://github.com/NaghmehOkhovat/project-weather-app",
+    "isFeatured": false,
+    "tags": [
+      { "name": "JavaScript" },
+      { "name": "HTML5" },
+      { "name": "CSS3" },
+      { "name": "API" }
+    ]
+  },
+  {
+    "id": "project-4",
+    "title": "Guess who",
+    "description": "Game created to learn basic JavaScript.",
+    "image": "image/guessWho.png",
+    "netlifyLink": "https://guesswhonaghmeh.netlify.app/",
+    "githubLink": "https://github.com/NaghmehOkhovat/project-guess-who",
+    "isFeatured": false,
+    "tags": [{ "name": "JavaScript" }, { "name": "HTML5" }, { "name": "CSS3" }]
+  },
+  {
+    "id": "project-3",
+    "title": "Chat Bot",
+    "description": "An interactive chatbot made into a game.",
+    "image": "image/chatbot.png",
+    "netlifyLink": "https://chatbot-naghmeh-antonella-technigo.netlify.app/",
+    "githubLink": "https://github.com/Sailornina/project-chatbot",
+    "isFeatured": false,
+    "tags": [{ "name": "JavaScript" }, { "name": "HTML5" }, { "name": "CSS3" }]
+  },
+  {
+    "id": "project-2",
+    "title": "Business site",
+    "description": "A business site with an accordion, styling, and header to practice JavaScript.",
+    "image": "image/bussinessSite.png",
+    "netlifyLink": "https://astounding-fairy-f2a605.netlify.app/",
+    "githubLink": "https://github.com/Petrasoderstrom1612/project-business-site",
+    "isFeatured": false,
+    "tags": [{ "name": "JavaScript" }, { "name": "HTML5" }, { "name": "CSS3" }]
+  },
+  {
+    "id": "project-1",
+    "title": "News Site",
+    "description": "Project to build a simple website using responsive design.",
+    "image": "image/Nature.png",
+    "netlifyLink": "https://naturenews1.netlify.app/",
+    "githubLink": "https://github.com/NaghmehOkhovat/project-news-site",
+    "isFeatured": false,
+    "tags": [{ "name": "HTML5" }, { "name": "CSS3" }, { "name": "responsive" }]
+  }
+]
