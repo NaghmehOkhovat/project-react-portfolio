@@ -24,7 +24,6 @@ const Skills = () => {
         'VSCode',
         'Google Cloud',
         'MongoDB',
-        'CatiaV5',
         'Figma',
         'Slack',
         ' Netlify'
@@ -32,7 +31,7 @@ const Skills = () => {
     },
     {
       name: 'MORE',
-      tags: ['Team Lead', 'Agile methodology', 'Scrum']
+      tags: ['Agile methodology', 'Scrum']
     }
   ];
 

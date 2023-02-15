@@ -10,7 +10,7 @@ const Footer = () => {
           <h4>Contact</h4>
           <p>Naghmeh okhovat</p>
           <p>
-            <a className="address-style" href="tel:+46 73 720 20 36 "> +46 70 459 08 38
+            <a className="address-style" href="tel:+46 73 720 20 36 "> +46 73 720 20 36
             </a>
           </p>
           <p>
